@@ -2,7 +2,7 @@
 
 ```
 > pipenv shell
-> pip​​ ​​install​​ ​​../one-module-python
+> pip​​ ​​install​​ ​​.
 ```
 
 ```
